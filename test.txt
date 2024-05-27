@@ -3,3 +3,7 @@ i'm living in dhanmonddi.
 i'm a landscape artist  
 i'm a landscape artist and i love to painting in my leiure
 i love to eat and travel 
+<h2>love you minimax</h2>
+<div id="div1">
+</div>
+<div2 id="div2"></div2> 
